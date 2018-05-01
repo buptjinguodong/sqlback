@@ -1,0 +1,3 @@
+rm: cannot remove `/home/sqlback/02-mysql/dump-20180428.sql': No such file or directory
+Warning: Using a password on the command line interface can be insecure.
+mysqldump: Got error: 1044: Access denied for user 'readonlyroot'@'%' to database 'echarge' when using LOCK TABLES
