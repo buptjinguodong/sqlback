@@ -21,3 +21,7 @@ mysqldump: Got error: 1044: Access denied for user 'readonlyroot'@'%' to databas
 
 备份完毕：[2018-05-0600:30:02]
 
+执行删除: [2018-05-0700:30:01]
+
+备份完毕：[2018-05-0700:30:01]
+
