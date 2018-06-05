@@ -263,3 +263,11 @@ Branch master set up to track remote branch master from origin.
 Branch master set up to track remote branch master from origin.
 同步git结束。Time: 2018-06-0402:34:25
 
+开始同步git。Time: 2018-06-0502:30:02
+
+[master 72c9d17] auto commit. Time: 2018-06-0502:30:02
+ 3 files changed, 4075 insertions(+), 0 deletions(-)
+ create mode 100644 02-mysql/dump-20180605.sql
+Branch master set up to track remote branch master from origin.
+同步git结束。Time: 2018-06-0502:38:01
+
